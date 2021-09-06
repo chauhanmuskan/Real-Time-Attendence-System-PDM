@@ -19,8 +19,7 @@ FEATURES:
 <hr>
 
 # SCREENSHOTS
-MAIN SCREEN:
-![Screenshot (9)](![SS 1](https://user-images.githubusercontent.com/73775596/132115942-3c79e590-c423-448f-81a5-40f419f205be.jpg)
+(![SS 1](https://user-images.githubusercontent.com/73775596/132115942-3c79e590-c423-448f-81a5-40f419f205be.jpg)
 
 TAKING ATTENDANCE:
 ![ss 2](https://user-images.githubusercontent.com/73775596/132116011-702166ee-95f9-4b8a-bba4-52f63a29a3d5.jpg)
