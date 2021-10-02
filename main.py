@@ -354,14 +354,14 @@ mont={'01':'January',
       '12':'December'
       }
 
-######################################## GUI FRONT-END ###########################################
+######################################## GUI FRONT-END #############################################
 
 window = tk.Tk()
 window.geometry("1280x720")
 window.resizable(True,False)
 window.title("PDM Attendance System")
 
-###################################### background image ###########################################
+###################################### background image #############################################
 
 img = ImageTk.PhotoImage(Image.open("image/pdm3.jpg"))
 panel = tk.Label(window, image=img)
