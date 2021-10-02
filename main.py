@@ -360,7 +360,9 @@ window = tk.Tk()
 window.geometry("1280x720")
 window.resizable(True,False)
 window.title("PDM Attendance System")
-########## background image ##########
+
+###################################### background image ###########################################
+
 img = ImageTk.PhotoImage(Image.open("image/pdm3.jpg"))
 panel = tk.Label(window, image=img)
 panel.pack(fill="both",expand=True)
